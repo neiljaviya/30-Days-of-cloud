@@ -4,6 +4,7 @@
   <li>CLOUD ENGINEERING
   <ol type="a">
     <li><a href="https://google.qwiklabs.com/quests/120">Getting Started: Create and Manage Cloud Resources</a></li>
+    <li><a href="https://google.qwiklabs.com/quests/118">Perform foundational infrastructure tasks in Google Cloud</a></li>
   </ol></li>
   <li>DATA SCIENCE AND MACHINE LEARNING
     <ol type="a">
