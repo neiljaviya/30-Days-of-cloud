@@ -10,8 +10,10 @@ Navigation menu > Compute engine > VM Instance
 
 Type the following in the console:
 
+###### Note: Replace ( GCP Project ID ) with your actual Project ID
+
 ```
-gcloud config set project [VALUE ( GCP Project ID )]
+gcloud config set project ( GCP Project ID )
 
 gcloud config set compute/zone us-east1-b
 
@@ -49,9 +51,10 @@ gcloud compute instance-templates create nginx-template \
 
 2. Create a target pool :
 
+######  Note: Whenever you're asked for region Select n and choose option 19
+
 ```
 gcloud compute target-pools create nginx-pool
-(Select n and choose option 19)
 ```
 
 3. Create a managed instance group :
