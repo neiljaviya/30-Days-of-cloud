@@ -51,7 +51,7 @@ gcloud compute instance-templates create nginx-template \
 
 2. Create a target pool :
 
-######  Note: Whenever you're asked for region Select n and choose option 19
+######  Note: Whenever you're asked for region Select n and choose option 23 (us-easst1)
 
 ```
 gcloud compute target-pools create nginx-pool
