@@ -56,7 +56,7 @@ Source IP ranges:       35.235.240.0/20
 Protocols and ports:    Select TCP, enter 22 to allow SSH
 ```
 
-# ![img5a](./Assets/img5a.png)
+# ![q51](./Assets/Q5_1.png)
 
 ## OR
 
@@ -86,7 +86,7 @@ Source IP ranges:       0.0.0.0/0
 Protocols and ports:    Select TCP, enter 80 to allow HTTP
 ```
 
-# ![img5b](./Assets/img5b.png)
+# ![q52](./Assets/Q5_2.png)
 
 #### Adding network tag on `juice-shop`.
 
@@ -123,7 +123,7 @@ Source IP ranges:       IP address range of your `aceme-mgmt-subnet`
 Protocols and ports:    Select TCP and enter 22 to allow SSH
 ```
 
-# ![img5c](./Assets/img5c.png)
+# ![q53](./Assets/Q5_3.png)
 
 ## OR
 
