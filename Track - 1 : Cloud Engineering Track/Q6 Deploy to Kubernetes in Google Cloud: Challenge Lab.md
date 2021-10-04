@@ -63,7 +63,7 @@ cd ~/marking
 ./step2.sh
 ```
 
-# ![img6a](./Assets/img6a.png)
+# ![q61](./Assets/Q6_1.png)
 
 ## Task 3: Push the Docker image in the Container Repository
 
@@ -75,10 +75,6 @@ docker tag valkyrie-app:v0.0.1 gcr.io/$PROJECT/valkyrie-app:v0.0.1
 docker images
 docker push gcr.io/$PROJECT/valkyrie-app:v0.0.1
 ```
-
-- After pushing the container, the valkyrie-app repository will appear in the Cloud Console as shown in the image below.
-
-# ![img6b](./Assets/img6b.png)
 
 ## Task 4: Create and expose a deployment in Kubernetes
 
