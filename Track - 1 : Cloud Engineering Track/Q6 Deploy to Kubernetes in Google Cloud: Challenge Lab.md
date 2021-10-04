@@ -205,8 +205,8 @@ sed -i "s/green/orange/g" source/html.go
 ######  Replace E-MAIL with current project's e-mail ID & USERNAME with current project's username.
 
 ```
-git config --global "E-MAIL"
-git config --global "USERNAME"
+git config --global user.email $PROJECT
+git config --global user.name $PROJECT
 
 git add *
 git commit -m 'green to orange'
