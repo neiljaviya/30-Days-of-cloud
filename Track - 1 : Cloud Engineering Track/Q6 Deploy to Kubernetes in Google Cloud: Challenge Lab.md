@@ -204,9 +204,11 @@ sed -i "s/green/orange/g" source/html.go
 
 - Kick off Deployment: Commit and push the changes:
 
+######  Replace E-MAIL with current project's e-mail ID & USERNAME with current project's username.
+
 ```
-git config --global user.email $PROJECT
-git config --global user.name $PROJECT
+git config --global "E-MAIL"
+git config --global "USERNAME"
 
 git add *
 git commit -m 'green to orange'
@@ -214,7 +216,3 @@ git push origin master
 ```
 
 - Finally, manually trigger the build in the Jenkins console
-
-Video for reference:
-
-https://www.youtube.com/watch?v=AJna2uyI9hw
