@@ -14,6 +14,8 @@ source <(gsutil cat gs://cloud-training/gsp318/marking/setup_marking.sh)
 
 ```
 export PROJECT=YOUR_PROJECT_ID
+```
+```
 gcloud source repos clone valkyrie-app --project=$PROJECT
 ```
 
