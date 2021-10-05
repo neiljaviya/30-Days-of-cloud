@@ -1,6 +1,6 @@
 # 30Days-of-GCP
 <h3>Tracks : </h3>
-<ol>
+<ol type="A">
   <li>CLOUD ENGINEERING TRACK
   <ol type="1">
     <li><a href="https://google.qwiklabs.com/quests/120">Getting Started: Create and Manage Cloud Resources</a></li>
