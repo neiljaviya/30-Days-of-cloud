@@ -12,5 +12,7 @@
   </ol></li>
   <li>DATA SCIENCE AND MACHINE LEARNING TRACK
     <ol type="1">
+       <li><a href="https://google.qwiklabs.com/quests/120">Getting Started: Create and Manage Cloud Resources</a></li>
+       <li><a href="https://google.qwiklabs.com/quests/118">Perform Foundational Infrastructure Tasks in Google Cloud</a></li>
   </ol></li>
   </ol>
